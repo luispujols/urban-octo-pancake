@@ -83,7 +83,7 @@ public static readonly List<string> QuestionsList = new()
 
 ```
 SocOps/
-├── Components/     # BingoBoard, BingoSquare, Modals
+├── Components/     # BingoBoard, BingoSquare, BingoModal, GameScreen, StartScreen
 ├── Models/         # Game state & data models
 ├── Services/       # Game logic & state management
 ├── Data/           # Question bank
